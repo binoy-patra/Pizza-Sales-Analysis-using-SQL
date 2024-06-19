@@ -1,0 +1,33 @@
+Task: 
+-- Total Order 
+-- Total Revenue 
+-- Total Pizza Quantity
+-- Average Order Amount (in a single tranaction)
+-- Average Order Quantity (in a single tranaction)
+-- Unique Pizza Type, Size , Category
+-- Category-wise distribution of pizzas.
+-- Highest & Lowest Priced Pizza
+
+-- Distribution of orders by day of the Week,Hour,Month
+-- Distribution of orders,quantity,revenue by size,category,type
+-- Percentage contribution of each pizza type/Category to total revenue.
+-- Cumulative revenue generated over time
+
+ANS: 
+Total Order: 21350
+Total Revenue: 817860.05 
+Total Pizza Quantity Sold: 49574
+Average Order Quantity (in a single tranaction): 2.32
+Average Order Amount (in a single tranaction): 38
+Unique Pizza Type: 32
+Unique Pizza Size: 5 (S-Small, M-Medium,L-Large, XL- Extra Large, XXL: Double Extra Large) 
+Unique Pizza Category: 4 (Chicken, Classic, Supreme, Veggie)
+Category-wise distribution of pizzas: Supreme has 9, Veggie has 9, Classic has 8,Chicken has 6 type of varities of Pizza
+Highest Priced Pizza: The Greek Pizza, 35.95 Rupees
+Lowest Priced Pizza: The Pepperoni Pizza, 9.75 Rupees
+Average Quantity Per day: 138 
+Average Amount Per day: 2285
+
+
+
+
